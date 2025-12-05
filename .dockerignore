@@ -1,0 +1,12 @@
+Ambientes virtuais e caches
+
+autoscaler_env/
+venv/
+pycache/
+*.pyc
+
+Arquivos do PyCharm e Git
+
+.idea/
+.git/
+.gitignore

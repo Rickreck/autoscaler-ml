@@ -1,0 +1,15 @@
+autoscaler_env/
+venv/
+env/
+.env
+
+.idea/
+
+pycache/
+*.pyc
+
+key.json
+*.log
+
+#model/
+
